@@ -1,0 +1,2 @@
+# Mobile-robot-motion-control-simulation
+基于MATLAB与V-REP构建移动机器人的运动控制仿真平台，建立移动机器人的运动学模型，在MATLAB中实现移动机器人的轨迹规划，在V-REP中根据MATLAB提供的位姿数据实现移动机器人的运动仿真。
